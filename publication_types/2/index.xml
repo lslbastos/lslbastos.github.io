@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Leonardo Bastos</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Leonardo S. L. Bastos - `2021`</copyright><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Characterisation of the first 250.000 hospital admissions for COVID19 in Brazil: a retrospective analysis of nationwide data</title>
+      <link>/publication/characterisation-of-the-first-250.000-hospital-admissions-for-covid19-in-brazil-a-retrospective-analysis-of-nationwide-data/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/characterisation-of-the-first-250.000-hospital-admissions-for-covid19-in-brazil-a-retrospective-analysis-of-nationwide-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

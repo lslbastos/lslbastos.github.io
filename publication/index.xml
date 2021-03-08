@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication | Leonardo Bastos</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Leonardo S. L. Bastos - `2021`</copyright>
+    <image>
+      <url>/images/icon_huaa6f575036bf9d72fd53ee2f4965476d_64188_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication</title>
+      <link>/publication/</link>
+    </image>
+    
+  </channel>
+</rss>
